@@ -1,0 +1,6 @@
+[submodule "stellar-node-manager"]
+	path = stellar-node-manager
+	url = https://github.com/GostarehNegar/stellar-node-manager.git
+[submodule "docker-stellar-core-horizon"]
+	path = docker-stellar-core-horizon
+	url = https://github.com/GostarehNegar/docker-stellar-core-horizon.git
